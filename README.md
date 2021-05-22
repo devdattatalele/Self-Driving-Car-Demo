@@ -1,5 +1,5 @@
 # Self Driving Car Demo with use of nueral networking And deeplearning 
-
+# _Try Self driving without raspberry pi here_
 ## This Project is a Trail Of Self Driving Car by my trained model.
 ### Preparation Steps--
 
@@ -18,7 +18,7 @@
 
         4..Enjoy Self Driving
 
-## If You are not getting Prefect results try to create your trained modle file from my main Self Driving project where you will find steps to collect data and train image..   you can find it here
-
+## If You are not getting Prefect results try to create your trained modle file from my main Self Driving project where you will find steps to collect data and train image.. You can find it here
+## Try Self driving without raspberry pi here
 ![Screenshot 2021-05-22 171234](https://user-images.githubusercontent.com/50290838/119225791-a3208900-bb23-11eb-9c2b-87789e91a09d.jpg)
 
