@@ -1,5 +1,7 @@
 # Self Driving Car Demo with use of nueral networking And deeplearning 
 # _Try Self driving without raspberry pi here_
+# Try Lane Detection without nueral networking 
+[HERE]: https://github.com/dev12346/Lane-detection-And-finding-steering-anlge
 ## This Project is a Trail Of Self Driving Car by my trained model.
 ### Preparation Steps--
 
